@@ -4,7 +4,7 @@ var images = [
     "assets/bla.png",
     "assets/el.png",
     "assets/goatpool.png",
-    "assets/guitar.png",
+    "assets/ziz.png",
     "assets/hadess.png",
     "assets/jj.png",
     "assets/joestar.png",

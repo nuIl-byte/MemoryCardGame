@@ -9,7 +9,7 @@ body{
  background-color: #ffe4b5;
  padding: 20px;
  min-height: 100vh;
-
+    cursor: url("assets/IMG_0032.png"), auto;
 }
 
 .container{
